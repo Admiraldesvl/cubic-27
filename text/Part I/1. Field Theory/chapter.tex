@@ -1,0 +1,49 @@
+We are always interested in the following three objects in algebra:
+
+
+\begin{itemize}
+	\item $k$ a perfect field.
+	\item $\overline{k}$ the algebraic closure of $k$.
+	\item $G(\overline{k}/k)$ the Galois group of $\overline{k}$ over $k$.
+\end{itemize}
+
+Immediate examples of perfect fields include all fields of characteristic $0$ and finite fields. The field of rational functions over a finite field is not perfect.
+
+We make the choice of perfect fields for several reasons. First of all, we do not exclude the classical case, that is, the cubic surface over the field of complex numbers. The geometry of finite fields, although not visualizable, is of its own interest so they will join the party as well. However, we do not welcome all fields because we do not want to deal with the case of multiple roots. Besides, the Galois theory becomes less interesting over an imperfect field\footnote{Recall that a Galois extension is normal and separable. If we do not choose perfect fields, we may have to work around inseparable extensions, which complicates the study in an unnecessary manner.}.
+
+We have to include algebraic closure because we need to ensure that geometrical information is not lost. For example, the Fermat's cubic surface in $\mathbb{P}^3(\mathbb{C})$ is the zero locus of the homogeneous polynomial $x^3+y^3+z^3+w^3=0$. One can explicitly write down the $27$ lines and many of them have complex coefficients.
+
+The following theorem summarizes the definition of perfect fields.
+
+\begin{thm}\label{thm:perfect}
+	Let $k$ be a field and $\overline{k}$ one of its algebraic closure. Then the following assertions are equivalent.
+	\begin{enumerate}
+		\item\label{thm:perfect-1} $\operatorname{char} k = 0$ or $\operatorname{char} k=p$ and $k^p=k$.
+		\item\label{thm:perfect-2} Every irreducible polynomial $f$ over $k$ is separable.
+		\item\label{thm:perfect-3} Every finite extension $K/k$ is separable.
+		\item\label{thm:perfect-4} Every algebraic extension $L/k$ is separable.
+	\end{enumerate}
+\end{thm}
+
+\begin{proof}
+	We show that $\ref{thm:perfect-2}\iff\ref{thm:perfect-3}\iff\ref{thm:perfect-4}$ and then $\ref{thm:perfect-1}\iff\ref{thm:perfect-2}$. 
+	
+	Suppose \ref{thm:perfect-2}. Let $L/k$ be an algebraic extension and $\alpha \in K$. Let $f(X)$ be the minimal polynomial of $\alpha$ over $k$. Then $f$ is separable and in turn $L/k$ is a separable extension. Therefore $\ref{thm:perfect-2}\implies\ref{thm:perfect-4}$. Since every finite extension $K/k$ is algebraic, we see that $\ref{thm:perfect-4}\implies\ref{thm:perfect-3}$.
+	
+	Next we suppose \ref{thm:perfect-3}. Let $f$ be an irreducible extension over $k$ with a root $\alpha \in \overline{k}$. Then $k(\alpha)/k$ is finite and $f$, the minimal polynomial of $\alpha \in k(\alpha)$, is separable.
+	
+	If $k$ is of characteristic $0$, $f$ is an irreducible polynomial over $k$, then $f' \ne 0$. It follows that $\gcd(f,f')=1$ because $f$ is irreducible. Therefore $f$ is separable.
+	
+	If $\operatorname{char} k = p$ and $k^p=k$, we show that an inseparable polynomial is not irreducible. Indeed, let $f(X) \in k[X]$ be an inseparable polynomial, with roots $\alpha_1,\dots,\alpha_k \in \overline{k}$ as its roots. Then there exists $m>0$ such that $f(X)=\prod_{j=1}^{k}(X-\alpha_j)^{p^m}$, and as a result $f'(X)=0$. Therefore $f(X)$ is actually a polynomial in $X^p$ and we can write
+	\[
+		f(X)=a_\ell X^{p\ell}+\cdots+a_1X^p+a_0.
+	\]
+	
+	Since $k=k^p$, for each $a_i \in k$, there is $b_i \in k$ such that $a_i = b_i^p$ and as a result
+	\[
+		f(X)=(b_\ell X^p+\cdots+b_1X+b_0)^p
+	\]
+	is not irreducible. With this being said, if $\operatorname{char} k = p$ and $k^p=k$, then \ref{thm:perfect-2} is true.
+	
+	Finally we suppose that \ref{thm:perfect-1} is false. Then $\operatorname{char}k=p>0$ and $k^p \ne k$. Pick $a \in k \setminus k^p$. Then we investigate the polynomial $f(X)=X^p-a=(X-a^{1/p})^p$. To begin with, $f(X)$ is irreducible over $k$ because otherwise we have $a^{1/p} \in k$, i.e. $a \in k^p$. However, we notice that $f'(X)=0$ therefore $f$ is not separable and \ref{thm:perfect-2} is then not true.
+\end{proof}
