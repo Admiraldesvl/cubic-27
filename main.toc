@@ -3,8 +3,8 @@
 \contentsline {chapter}{Geometry}{17}{}%
 \contentsline {section}{Grassmannian}{17}{}%
 \contentsline {section}{Typefaces}{17}{}%
-\contentsline {section}{Headings}{18}{}%
-\contentsline {paragraph}{Paragraph}{18}{}%
+\contentsline {section}{Headings}{17}{}%
+\contentsline {paragraph}{Paragraph}{17}{}%
 \contentsline {section}{Environments}{18}{}%
 \contentsline {chapter}{On the Use of the tufte-book Document Class}{19}{}%
 \contentsline {section}{Page Layout}{19}{}%

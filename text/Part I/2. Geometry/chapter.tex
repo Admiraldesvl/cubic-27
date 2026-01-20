@@ -2,10 +2,16 @@
 Let $K$ be an algebraically closed field. In this section, we will develop the concept of Grassmannian, which gives us a way to find the $27$ lines.
 
 \begin{defn}
-	The Grassmannian variety $G(k,n)$\footnote{As a matter of convention, some mathematicians will write it as $G(n,k)$.} for $0\le k \le n$ is defined to be
+	The Grassmannian variety $G(k,n)$ for $0\le k \le n$ is defined to be\footnote{As a matter of convention, some mathematicians will write it as $G(n,k)$.}
 	\[
 		G(n,k)=\{V \text{ subspace of } K^n:\dim V = k\}.
 	\]
 \end{defn}
 
-In the work of $27$ lines, we will work with $G(2,4)$, which denotes the (projective) lines over the (projective) space.
+In the work of $27$ lines, we will work with $G(2,4)$, which denotes the (projective) lines over the (projective) space. In order to make $G(k,n)$ a \textit{de facto} variety, we will introduce thee Plücker coordinate system. The idea of the coordinate system is simple: every $U \in G(k,n)$ admits a basis consisting of $k$ vectors $\{u_1,\dots,u_k\}$ of dimension $n$, thus we have a $n \times k$ matrix whose columns are $u_1,\dots,u_d$. We also want to pay respect to the order of vectors in the basis chosen. A tool that can track the order of vectors is the determinant function, who is generalized by wedge product.
+
+\begin{defn}
+	The Plücker map $p:G(k,n) \to \mathbb{P}(\bigwedge^d K^n)$ is defined as follows. Let $U \in G(k,n)$ be an element with basis $\{u_1,\dots,u_k\}$, then $p(U)=[u_1 \wedge \cdots u_k]$.
+\end{defn}
+
+

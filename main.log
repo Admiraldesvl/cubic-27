@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.3.10)  20 JAN 2026 00:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.3.10)  20 JAN 2026 00:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -809,31 +809,32 @@ Package: amsthm 2020/05/29 v2.20.6
 \dth@everypar=\toks35
 )
 \c@thm=\count446
-\c@defn=\count447
+\c@thm-def=\count447
+\c@defn=\count448
 
 
 Package biblatex Warning: Patching footnotes failed.
 (biblatex)                Footnote detection will not work.
 
-\@quotelevel=\count448
-\@quotereset=\count449
+\@quotelevel=\count449
+\@quotereset=\count450
 (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 218.
-LaTeX Font Info:    ... okay on input line 218.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 218.
-LaTeX Font Info:    ... okay on input line 218.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 218.
-LaTeX Font Info:    ... okay on input line 218.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 218.
-LaTeX Font Info:    ... okay on input line 218.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 218.
-LaTeX Font Info:    ... okay on input line 218.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 218.
-LaTeX Font Info:    ... okay on input line 218.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 218.
-LaTeX Font Info:    ... okay on input line 218.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -874,16 +875,16 @@ LaTeX Font Info:    ... okay on input line 218.
 (C:\Users\desvl\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count450
+\scratchcounter=\count451
 \scratchdimen=\dimen192
 \scratchbox=\box106
-\nofMPsegments=\count451
-\nofMParguments=\count452
+\nofMPsegments=\count452
+\nofMParguments=\count453
 \everyMPshowfont=\toks36
-\MPscratchCnt=\count453
+\MPscratchCnt=\count454
 \MPscratchDim=\dimen193
-\MPnumerator=\count454
-\makeMPintoPDFobject=\count455
+\MPnumerator=\count455
+\makeMPintoPDFobject=\count456
 \everyMPtoPDFconversion=\toks37
 )
 (C:\Users\desvl\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
@@ -911,18 +912,18 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 218.
-Package biblatex Info: Reference segment=0 on input line 218.
+Package biblatex Info: Reference section=0 on input line 219.
+Package biblatex Info: Reference segment=0 on input line 219.
 LaTeX Font Info:    Trying to load font information for T1+phv on input line 25
-3.
+4.
 
 (C:\Users\desvl\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 12.59991pt on input line 253.
+(Font)              scaled to size 12.59991pt on input line 254.
 LaTeX Font Info:    Font shape `T1/phv/m/sc' will be
-(Font)              scaled to size 12.59991pt on input line 253.
+(Font)              scaled to size 12.59991pt on input line 254.
 
 
 [1
@@ -931,45 +932,45 @@ LaTeX Font Info:    Font shape `T1/phv/m/sc' will be
 {C:/Users/desvl/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/desv
 l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
 LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 
-263.
+264.
 
 (C:\Users\desvl\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 )
 LaTeX Font Info:    Trying to load font information for T1+fvm on input line 27
-1.
+2.
 
 (C:\Users\desvl\AppData\Local\Programs\MiKTeX\tex/latex/bera\t1fvm.fd
 File: t1fvm.fd 2004/09/07 scalable font definitions for T1/fvm.
 )
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 8.50006pt on input line 271.
+(Font)              scaled to size 8.50006pt on input line 272.
 LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 
-271.
+272.
 
 (C:\Users\desvl\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pplx.fd
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-271.
+272.
 
 (C:\Users\desvl\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-271.
+272.
 
 (C:\Users\desvl\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-271.
+272.
 
 (C:\Users\desvl\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-271.
+272.
 
 (C:\Users\desvl\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
@@ -1015,7 +1016,7 @@ $\T1/pplj/m/n/10 , and $\OML/zplm/m/it/10 z \OT1/zplm/m/n/10 = [\OT1/pplx/m/n/1
 ] (main.lot
 Overfull \hbox (58.32143pt too wide) in paragraph at lines 3--3
  [][] []\T1/pplj/m/n/10 A list of L[]T[]X font sizes as de-fined by the Tufte-L
-[]T[]X doc-u-ment classes. 17 
+[]T[]X doc-u-ment classes. 18 
  []
 
 
@@ -1035,9 +1036,9 @@ d in the Tufte-
 [8
 
 ]
-LaTeX Font Info:    Calculating math sizes for size <18> on input line 294.
+LaTeX Font Info:    Calculating math sizes for size <18> on input line 295.
 
-Overfull \hbox (94.52998pt too wide) in paragraph at lines 292--297
+Overfull \hbox (94.52998pt too wide) in paragraph at lines 293--298
 \T1/pplj/m/it/18 and the work of [] and [].  
  []
 
@@ -1049,16 +1050,16 @@ Overfull \hbox (94.52998pt too wide) in paragraph at lines 292--297
 
 ]
 
-LaTeX Warning: Citation 'Tufte2001' on page 11 undefined on input line 307.
+LaTeX Warning: Citation 'Tufte2001' on page 11 undefined on input line 308.
 
 
-LaTeX Warning: Citation 'Tufte1990' on page 11 undefined on input line 307.
+LaTeX Warning: Citation 'Tufte1990' on page 11 undefined on input line 308.
 
 
-LaTeX Warning: Citation 'Tufte1997' on page 11 undefined on input line 307.
+LaTeX Warning: Citation 'Tufte1997' on page 11 undefined on input line 308.
 
 
-LaTeX Warning: Citation 'Tufte2006' on page 11 undefined on input line 307.
+LaTeX Warning: Citation 'Tufte2006' on page 11 undefined on input line 308.
 
 
 LaTeX Warning: Marginpar on page 11 moved.
@@ -1079,17 +1080,17 @@ LaTeX Warning: Marginpar on page 11 moved.
 
 [14] (text/Part I/1. Field Theory/chapter.tex
 
-LaTeX Warning: Marginpar on page 15 moved.
-
-LaTeX Font Info:    Trying to load font information for U+fplmbb on input line 
-14.
-(C:\Users\desvl\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ufplmbb.fd
-File: ufplmbb.fd 2003/10/30 Fontinst v1.914 font definitions for U/fplmbb.
-)
-
 [15
 
-])
+]
+
+LaTeX Warning: Marginpar on page 16 moved.
+
+LaTeX Font Info:    Trying to load font information for U+fplmbb on input line 
+50.
+(C:\Users\desvl\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ufplmbb.fd
+File: ufplmbb.fd 2003/10/30 Fontinst v1.914 font definitions for U/fplmbb.
+))
 
 [16] (text/Part I/2. Geometry/chapter.tex
 
@@ -1097,48 +1098,54 @@ LaTeX Warning: Marginpar on page 17 moved.
 
 )
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 6.80005pt on input line 350.
+(Font)              scaled to size 6.80005pt on input line 351.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: Marginpar on page 17 moved.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (8.62149pt too wide) in paragraph at lines 405--415
+ [] 
+ []
+
 
 
 [17
 
 ]
 
-LaTeX Warning: Marginpar on page 18 moved.
-
-
-Overfull \hbox (8.62149pt too wide) in paragraph at lines 404--414
- [] 
- []
-
-
-
 [18]
 LaTeX Font Info:    Font shape `T1/fvm/m/it' in size <20.74> not available
-(Font)              Font shape `T1/fvm/m/sl' tried instead on input line 420.
+(Font)              Font shape `T1/fvm/m/sl' tried instead on input line 421.
 LaTeX Font Info:    Font shape `T1/fvm/m/sl' will be
-(Font)              scaled to size 17.62912pt on input line 420.
+(Font)              scaled to size 17.62912pt on input line 421.
 
-Overfull \hbox (7.68355pt too wide) in paragraph at lines 432--434
+Overfull \hbox (7.68355pt too wide) in paragraph at lines 433--435
 \T1/pplj/m/n/10 This style pro-vides \T1/pplj/m/sc/10/50ls a\T1/pplj/m/n/10 - a
 nd \T1/pplj/m/sc/10/50ls b\T1/pplj/m/n/10 -heads (that is, [] and []), 
  []
 
 
-LaTeX Warning: Citation 'Bringhurst2005' on page 19 undefined on input line 438
+LaTeX Warning: Citation 'Bringhurst2005' on page 19 undefined on input line 439
 .
 
 
 LaTeX Warning: Marginpar on page 19 moved.
 
 
-LaTeX Warning: Citation 'Tufte2006' on page 19 undefined on input line 445.
+LaTeX Warning: Citation 'Tufte2006' on page 19 undefined on input line 446.
 
 
 LaTeX Warning: Marginpar on page 19 moved.
 
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
-(Font)              scaled to size 7.65005pt on input line 449.
+(Font)              scaled to size 7.65005pt on input line 450.
 
 LaTeX Warning: Marginpar on page 19 moved.
 
@@ -1154,31 +1161,31 @@ LaTeX Warning: Marginpar on page 19 moved.
 LaTeX Warning: Marginpar on page 20 moved.
 
 
-LaTeX Warning: Citation 'Tufte2006' on page 20 undefined on input line 515.
+LaTeX Warning: Citation 'Tufte2006' on page 20 undefined on input line 516.
 
 
-LaTeX Warning: Citation 'Tufte1990' on page 20 undefined on input line 515.
+LaTeX Warning: Citation 'Tufte1990' on page 20 undefined on input line 516.
 
 
 
 [20]
-<helix.pdf, id=80, 221.8689pt x 201.71361pt>
+<helix.pdf, id=81, 221.8689pt x 201.71361pt>
 File: helix.pdf Graphic file (type pdf)
 <use helix.pdf>
-Package pdftex.def Info: helix.pdf  used on input line 534.
+Package pdftex.def Info: helix.pdf  used on input line 535.
 (pdftex.def)             Requested size: 144.00317pt x 130.92145pt.
-<sine.pdf, id=81, 505.89pt x 51.04068pt>
+<sine.pdf, id=82, 505.89pt x 51.04068pt>
 File: sine.pdf Graphic file (type pdf)
 <use sine.pdf>
-Package pdftex.def Info: sine.pdf  used on input line 565.
+Package pdftex.def Info: sine.pdf  used on input line 566.
 (pdftex.def)             Requested size: 480.0061pt x 48.42917pt.
-<hilbertcurves.pdf, id=82, 308.47346pt x 76.72565pt>
+<hilbertcurves.pdf, id=83, 308.47346pt x 76.72565pt>
 File: hilbertcurves.pdf Graphic file (type pdf)
 <use hilbertcurves.pdf>
-Package pdftex.def Info: hilbertcurves.pdf  used on input line 572.
+Package pdftex.def Info: hilbertcurves.pdf  used on input line 573.
 (pdftex.def)             Requested size: 312.0029pt x 77.6035pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 572--577
+Underfull \hbox (badness 10000) in paragraph at lines 573--578
 
  []
 
@@ -1186,12 +1193,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 572--577
 
 [21 <./helix.pdf> <./sine.pdf> <./hilbertcurves.pdf>]
 LaTeX Font Info:    Trying to load font information for T1+ppl on input line 60
-8.
+9.
 
 (C:\Users\desvl\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 )
-Overfull \hbox (6.44302pt too wide) in paragraph at lines 635--638
+Overfull \hbox (6.44302pt too wide) in paragraph at lines 636--639
 \T1/pplj/m/n/10 this lim-i-ta-tion, the Tufte-L[]T[]X doc-u-ment classes pro-vi
 de a []\T1/fvm/m/n/10 \morefloats[][][] 
  []
@@ -1199,7 +1206,7 @@ de a []\T1/fvm/m/n/10 \morefloats[][][]
 
 
 [22]
-Overfull \hbox (56.13647pt too wide) in paragraph at lines 672--675
+Overfull \hbox (56.13647pt too wide) in paragraph at lines 673--676
 [] []\T1/pplj/m/it/10 Ver-ti-cal align-ment[] \T1/pplj/m/n/10 To over-ride the 
 ver-ti-cal align-ment, use the \T1/fvm/m/n/10 \setfloatalignment[] 
  []
@@ -1208,10 +1215,10 @@ ver-ti-cal align-ment, use the \T1/fvm/m/n/10 \setfloatalignment[]
 
 [23]
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 738.
+(Font)              scaled to size 8.99994pt on input line 739.
 
 
-LaTeX Warning: Citation 'Bringhurst2005' on page 24 undefined on input line 748
+LaTeX Warning: Citation 'Bringhurst2005' on page 24 undefined on input line 749
 .
 
 
@@ -1228,16 +1235,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [26]
 LaTeX Font Info:    Font shape `T1/fvm/m/it' in size <10> not available
-(Font)              Font shape `T1/fvm/m/sl' tried instead on input line 851.
+(Font)              Font shape `T1/fvm/m/sl' tried instead on input line 852.
 LaTeX Font Info:    Font shape `T1/fvm/m/sl' will be
-(Font)              scaled to size 8.50006pt on input line 851.
+(Font)              scaled to size 8.50006pt on input line 852.
 
 
 [27
 
 ]
 
-LaTeX Warning: Citation 'pkg-geometry' on page 28 undefined on input line 913.
+LaTeX Warning: Citation 'pkg-geometry' on page 28 undefined on input line 914.
 
 
 LaTeX Warning: Marginpar on page 28 moved.
@@ -1245,7 +1252,7 @@ LaTeX Warning: Marginpar on page 28 moved.
 
 
 [28]
-Overfull \hbox (29.76787pt too wide) in paragraph at lines 952--954
+Overfull \hbox (29.76787pt too wide) in paragraph at lines 953--955
 []\T1/fvm/m/n/9 \documentclass[symmetric,justified,marginals=raggedouter]{tufte
 -book}  
  []
@@ -1258,9 +1265,9 @@ Overfull \hbox (29.76787pt too wide) in paragraph at lines 952--954
 
 ]
 LaTeX Font Info:    Font shape `T1/fvm/m/it' in size <12> not available
-(Font)              Font shape `T1/fvm/m/sl' tried instead on input line 986.
+(Font)              Font shape `T1/fvm/m/sl' tried instead on input line 987.
 LaTeX Font Info:    Font shape `T1/fvm/m/sl' will be
-(Font)              scaled to size 10.20007pt on input line 986.
+(Font)              scaled to size 10.20007pt on input line 987.
 
 
 [31]
@@ -1298,11 +1305,11 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16403 strings out of 473523
- 301022 string characters out of 5714630
- 1241618 words of memory out of 5000000
- 39211 multiletter control sequences out of 15000+600000
- 709748 words of font info for 255 fonts, out of 8000000 for 9000
+ 16415 strings out of 473523
+ 301139 string characters out of 5714630
+ 1242687 words of memory out of 5000000
+ 39219 multiletter control sequences out of 15000+600000
+ 712538 words of font info for 259 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  97i,14n,96p,757b,875s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/desvl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
@@ -1319,11 +1326,12 @@ al/Programs/MiKTeX/fonts/type1/bera/fvmr8a.pfb><C:/Users/desvl/AppData/Local/Pr
 ograms/MiKTeX/fonts/type1/bera/fvmro8a.pfb><C:/Users/desvl/AppData/Local/Progra
 ms/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/desvl/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/desvl/AppData/Local/
-Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/desvl/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (36 pages, 246254 bytes).
+Programs/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Users/desvl/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/desvl/AppData
+/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (36 pages, 257646 bytes).
 PDF statistics:
- 225 PDF objects out of 1000 (max. 8388607)
+ 230 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  3600 words of extra memory for PDF output out of 10000 (max. 10000000)
 
