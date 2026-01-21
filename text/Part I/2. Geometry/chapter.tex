@@ -13,5 +13,24 @@ In the work of $27$ lines, we will work with $G(2,4)$, which denotes the (projec
 \begin{defn}
 	The Plücker map $p:G(k,n) \to \mathbb{P}(\bigwedge^d K^n)$ is defined as follows. Let $U \in G(k,n)$ be an element with basis $\{u_1,\dots,u_k\}$, then $p(U)=[u_1 \wedge \cdots u_k]$.
 \end{defn}
+We need to show that it is legitimate to use the Plücker map to give a coordinate of a Grassmannian variety.
+\begin{thm}\label{thm:plucker}
+	Let $p:G(k,n) \to \mathbb{P}(\bigwedge^k K^n)$ be the Plücker map. Then
+	\begin{enumerate}
+		\item $p$ is well-defined;
+		\item $p$ is injective.
+	\end{enumerate}
+\end{thm}
+\begin{proof}
+	To show that $p$ is well-defined, we need to show that $p$ does not depend on the basis chosen for an element $U \in G(k,n)$. For $U \in G(k,n)$, pick two basis $\{u_1,\dots,u_k\}$ and $\{u_1',\dots,u_k'\}$. Then each $u_i'$ can be written in the form $u_i'=\sum_{j=1}^{k}a_{ij}u_j$. Let $C=(a_{ij})$, then $C$ is invertible and the anti-commutativity of wedge product yields
+	\[
+		u_1'\wedge \cdots \wedge u_k'= \deg(C)u_1 \wedge \cdots \wedge u_k
+	\]
+	therefore $u_1'\wedge \cdots \wedge u_k'$ and $u_1 \wedge \cdots \wedge u_k$ represent the same element in $\mathbb{P}(\bigwedge^d K^n)$.
+	
+	
+	To show that $p$ is injective, pick $U=\langle u_1,\dots,u_k\rangle$ and $V = \langle v_1,\dots,v_k\rangle$ in $G(k,n)$ such that $p(U)=p(V)$. Let $u = u_1 \wedge \cdots \wedge u_k$ and $v=v_1 \wedge \cdots \wedge v_k$, then $u = \lambda v$ for some $\lambda\in\mathbb{C}^\times$. It follows that $u_i \wedge v = u_i \wedge u = 0$ and $v_i \wedge u = v_i \wedge v = 0$ for all $i$. However the kernel of $K^n \mapsto \bigwedge^{k+1}K^n$ defined by $x \mapsto x \wedge u$ is $U$ and likewise the kernel of $x \mapsto x \wedge v$ is $V$. Therefore we must have $u_i \in V$ and $v_i \in U$ for all $i$, which shows that $U=V$.
+\end{proof}
 
+We demand two things from the Plücker map, or alternatively, from $\mathbb{P}(\bigwedge^k K^n)$. First of all, this application should allow us to do elementary calculation using elements in $\mathbb{P}(\bigwedge^k K^n)$, which can be explicitly represented. Secondly, we want to make sure that the embedding of $G(k,n)$ into $\mathbb{P}(\bigwedge^k K^n)$ makes sense in algebraic geometry. For these reasons, we define the Plücker coordinates.
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.3.10)  20 JAN 2026 00:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.3.10)  21 JAN 2026 19:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1096,15 +1096,16 @@ File: ufplmbb.fd 2003/10/30 Fontinst v1.914 font definitions for U/fplmbb.
 
 LaTeX Warning: Marginpar on page 17 moved.
 
-)
+
+
+[17
+
+])
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
 (Font)              scaled to size 6.80005pt on input line 351.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: Marginpar on page 17 moved.
+LaTeX Warning: Marginpar on page 18 moved.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1116,11 +1117,13 @@ Overfull \hbox (8.62149pt too wide) in paragraph at lines 405--415
 
 
 
-[17
+[18]
+
+[19]
+
+[20
 
 ]
-
-[18]
 LaTeX Font Info:    Font shape `T1/fvm/m/it' in size <20.74> not available
 (Font)              Font shape `T1/fvm/m/sl' tried instead on input line 421.
 LaTeX Font Info:    Font shape `T1/fvm/m/sl' will be
@@ -1132,54 +1135,52 @@ nd \T1/pplj/m/sc/10/50ls b\T1/pplj/m/n/10 -heads (that is, [] and []),
  []
 
 
-LaTeX Warning: Citation 'Bringhurst2005' on page 19 undefined on input line 439
+LaTeX Warning: Citation 'Bringhurst2005' on page 21 undefined on input line 439
 .
 
 
-LaTeX Warning: Marginpar on page 19 moved.
+LaTeX Warning: Marginpar on page 21 moved.
 
 
-LaTeX Warning: Citation 'Tufte2006' on page 19 undefined on input line 446.
+LaTeX Warning: Citation 'Tufte2006' on page 21 undefined on input line 446.
 
 
-LaTeX Warning: Marginpar on page 19 moved.
+LaTeX Warning: Marginpar on page 21 moved.
 
 LaTeX Font Info:    Font shape `T1/fvm/m/n' will be
 (Font)              scaled to size 7.65005pt on input line 450.
 
-LaTeX Warning: Marginpar on page 19 moved.
+LaTeX Warning: Marginpar on page 21 moved.
 
 
-LaTeX Warning: Marginpar on page 19 moved.
-
-
-
-[19
-
-]
-
-LaTeX Warning: Marginpar on page 20 moved.
-
-
-LaTeX Warning: Citation 'Tufte2006' on page 20 undefined on input line 516.
-
-
-LaTeX Warning: Citation 'Tufte1990' on page 20 undefined on input line 516.
+LaTeX Warning: Marginpar on page 21 moved.
 
 
 
-[20]
-<helix.pdf, id=81, 221.8689pt x 201.71361pt>
+[21]
+
+LaTeX Warning: Marginpar on page 22 moved.
+
+
+LaTeX Warning: Citation 'Tufte2006' on page 22 undefined on input line 516.
+
+
+LaTeX Warning: Citation 'Tufte1990' on page 22 undefined on input line 516.
+
+
+
+[22]
+<helix.pdf, id=88, 221.8689pt x 201.71361pt>
 File: helix.pdf Graphic file (type pdf)
 <use helix.pdf>
 Package pdftex.def Info: helix.pdf  used on input line 535.
 (pdftex.def)             Requested size: 144.00317pt x 130.92145pt.
-<sine.pdf, id=82, 505.89pt x 51.04068pt>
+<sine.pdf, id=89, 505.89pt x 51.04068pt>
 File: sine.pdf Graphic file (type pdf)
 <use sine.pdf>
 Package pdftex.def Info: sine.pdf  used on input line 566.
 (pdftex.def)             Requested size: 480.0061pt x 48.42917pt.
-<hilbertcurves.pdf, id=83, 308.47346pt x 76.72565pt>
+<hilbertcurves.pdf, id=90, 308.47346pt x 76.72565pt>
 File: hilbertcurves.pdf Graphic file (type pdf)
 <use hilbertcurves.pdf>
 Package pdftex.def Info: hilbertcurves.pdf  used on input line 573.
@@ -1191,7 +1192,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 573--578
 
 
 
-[21 <./helix.pdf> <./sine.pdf> <./hilbertcurves.pdf>]
+[23 <./helix.pdf> <./sine.pdf> <./hilbertcurves.pdf>]
 LaTeX Font Info:    Trying to load font information for T1+ppl on input line 60
 9.
 
@@ -1205,7 +1206,7 @@ de a []\T1/fvm/m/n/10 \morefloats[][][]
 
 
 
-[22]
+[24]
 Overfull \hbox (56.13647pt too wide) in paragraph at lines 673--676
 [] []\T1/pplj/m/it/10 Ver-ti-cal align-ment[] \T1/pplj/m/n/10 To over-ride the 
 ver-ti-cal align-ment, use the \T1/fvm/m/n/10 \setfloatalignment[] 
@@ -1213,45 +1214,45 @@ ver-ti-cal align-ment, use the \T1/fvm/m/n/10 \setfloatalignment[]
 
 
 
-[23]
+[25]
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 8.99994pt on input line 739.
 
 
-LaTeX Warning: Citation 'Bringhurst2005' on page 24 undefined on input line 749
+LaTeX Warning: Citation 'Bringhurst2005' on page 26 undefined on input line 749
 .
 
 
-LaTeX Warning: Marginpar on page 24 moved.
+LaTeX Warning: Marginpar on page 26 moved.
 
 
 
-[24]
+[26]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-[25]
+[27]
 
-[26]
+[28]
 LaTeX Font Info:    Font shape `T1/fvm/m/it' in size <10> not available
 (Font)              Font shape `T1/fvm/m/sl' tried instead on input line 852.
 LaTeX Font Info:    Font shape `T1/fvm/m/sl' will be
 (Font)              scaled to size 8.50006pt on input line 852.
 
 
-[27
+[29
 
 ]
 
-LaTeX Warning: Citation 'pkg-geometry' on page 28 undefined on input line 914.
+LaTeX Warning: Citation 'pkg-geometry' on page 30 undefined on input line 914.
 
 
-LaTeX Warning: Marginpar on page 28 moved.
+LaTeX Warning: Marginpar on page 30 moved.
 
 
 
-[28]
+[30]
 Overfull \hbox (29.76787pt too wide) in paragraph at lines 953--955
 []\T1/fvm/m/n/9 \documentclass[symmetric,justified,marginals=raggedouter]{tufte
 -book}  
@@ -1259,9 +1260,9 @@ Overfull \hbox (29.76787pt too wide) in paragraph at lines 953--955
 
 
 
-[29]
+[31]
 
-[30
+[32
 
 ]
 LaTeX Font Info:    Font shape `T1/fvm/m/it' in size <12> not available
@@ -1270,19 +1271,19 @@ LaTeX Font Info:    Font shape `T1/fvm/m/sl' will be
 (Font)              scaled to size 10.20007pt on input line 987.
 
 
-[31]
+[33]
 
-[32
+[34
 
 ]
 
-[33]
-
-[34]
-
 [35]
 
-[36
+[36]
+
+[37]
+
+[38
 
 ]
 No file main.ind.
@@ -1305,33 +1306,34 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16415 strings out of 473523
- 301139 string characters out of 5714630
- 1242687 words of memory out of 5000000
- 39219 multiletter control sequences out of 15000+600000
+ 16417 strings out of 473523
+ 301189 string characters out of 5714630
+ 1246688 words of memory out of 5000000
+ 39221 multiletter control sequences out of 15000+600000
  712538 words of font info for 259 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  97i,14n,96p,757b,875s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/desvl/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
-cmmi10.pfb><C:/Users/desvl/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmr10.pfb><C:/Users/desvl/AppData/Local/Programs/MiKTeX/fonts/type1/pu
-blic/amsfonts/cm/cmsy10.pfb><C:/Users/desvl/AppData/Local/Programs/MiKTeX/fonts
-/type1/public/fpl/fplbj8a.pfb><C:/Users/desvl/AppData/Local/Programs/MiKTeX/fon
-ts/type1/public/mathpazo/fplmbb.pfb><C:/Users/desvl/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/mathpazo/fplmr.pfb><C:/Users/desvl/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/mathpazo/fplmri.pfb><C:/Users/desvl/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/fpl/fplrc8a.pfb><C:/Users/desvl/AppData/Local/
-Programs/MiKTeX/fonts/type1/public/fpl/fplrij8a.pfb><C:/Users/desvl/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/bera/fvmr8a.pfb><C:/Users/desvl/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/bera/fvmro8a.pfb><C:/Users/desvl/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/desvl/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/desvl/AppData/Local/
-Programs/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Users/desvl/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/desvl/AppData
-/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on main.pdf (36 pages, 257646 bytes).
+cmex10.pfb><C:/Users/desvl/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmmi10.pfb><C:/Users/desvl/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb><C:/Users/desvl/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/desvl/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/fpl/fplbj8a.pfb><C:/Users/desvl/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/mathpazo/fplmbb.pfb><C:/Users/desvl/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/mathpazo/fplmr.pfb><C:/Users/desvl/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/mathpazo/fplmri.pfb><C:/Users/desvl/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplrc8a.pfb><C:/Users/desvl/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/fpl/fplrij8a.pfb><C:/Users/desvl/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/bera/fvmr8a.pfb><C:/Users/desvl/AppData
+/Local/Programs/MiKTeX/fonts/type1/bera/fvmro8a.pfb><C:/Users/desvl/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/desvl/AppData/
+Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/desvl/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplbi8a.pfb><C:/Users/desvl/A
+ppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/desv
+l/AppData/Local/Programs/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on main.pdf (38 pages, 272258 bytes).
 PDF statistics:
- 230 PDF objects out of 1000 (max. 8388607)
+ 244 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  3600 words of extra memory for PDF output out of 10000 (max. 10000000)
 
