@@ -304,9 +304,7 @@ and \mbox{Donald E.~Knuth}.
 \cleardoublepage
 \chapter*{Introduction}
 
-This sample book discusses the design of Edward Tufte's
-books\cite{Tufte2001,Tufte1990,Tufte1997,Tufte2006}
-and the use of the \doccls{tufte-book} and \doccls{tufte-handout} document classes.
+It is a celebrated fact that there are $27$ lines over a smooth cubic surface in $\mathbb{P}^3(\mathbb{C})$. In this note, we try to explore this fact with wider generality and deeper interpretation.
 
 
 %%
@@ -325,97 +323,6 @@ and the use of the \doccls{tufte-book} and \doccls{tufte-handout} document class
 
 \input{text/Part I/2. Geometry/chapter.tex}
 
-
-
-\section{Typefaces}\label{sec:typefaces1}\index{typefaces}
-\index{fonts|see{typefaces}}
-
-Tufte's books primarily use two typefaces: Bembo and Gill Sans.  Bembo is used
-for the headings and body text, while Gill Sans is used for the title page and
-opening epigraphs in \BE.
-
-Since neither Bembo nor Gill Sans are available in default \LaTeX{}
-installations, the \TL document classes default to using Palatino and
-Helvetica, respectively.  In addition, the Bera Mono typeface is used for
-\texttt{monospaced} type.
-
-The following font sizes are defined by the \TL classes:
-
-\begin{table}[h]\index{typefaces!sizes}
-  \footnotesize%
-  \begin{center}
-    \begin{tabular}{lccl}
-      \toprule
-      \LaTeX{} size & Font size & Leading & Used for \\
-      \midrule
-      \verb+\tiny+         &  5 &  6 & sidenote numbers \\
-      \verb+\scriptsize+   &  7 &  8 & \na \\
-      \verb+\footnotesize+ &  8 & 10 & sidenotes, captions \\
-      \verb+\small+        &  9 & 12 & quote, quotation, and verse environments \\
-      \verb+\normalsize+   & 10 & 14 & body text \\
-      \verb+\large+        & 11 & 15 & \textsc{b}-heads \\
-      \verb+\Large+        & 12 & 16 & \textsc{a}-heads, \textsc{toc} entries, author, date \\
-      \verb+\LARGE+        & 14 & 18 & handout title \\
-      \verb+\huge+         & 20 & 30 & chapter heads \\
-      \verb+\Huge+         & 24 & 36 & part titles \\
-      \bottomrule
-    \end{tabular}
-  \end{center}
-  \caption{A list of \LaTeX{} font sizes as defined by the \TL document classes.}
-  \label{tab:font-sizes}
-\end{table}
-
-\section{Headings}\label{sec:headings1}\index{headings}
-
-Tufte's books include the following heading levels: parts,
-chapters,\sidenote{Parts and chapters are defined for the \texttt{tufte-book}
-class only.}  sections, subsections, and paragraphs.  Not defined by default
-are: sub-subsections and subparagraphs.
-
-\begin{table}[h]
-  \begin{center}
-    \footnotesize%
-    \begin{tabular}{lcr}
-      \toprule
-      Heading & Style & Size \\
-      \midrule
-      Part & roman & \measure{24}{36}{40} \\
-      Chapter & italic & \measure{20}{30}{40} \\
-      Section & italic & \measure{12}{16}{26} \\
-      Subsection & italic & \measure{11}{15}{26} \\
-      Paragraph & italic & 10/14 \\
-      \bottomrule
-    \end{tabular}
-  \end{center}
-  \caption{Heading styles used in \BE.}
-  \label{tab:heading-styles}
-\end{table}
-
-\paragraph{Paragraph} Paragraph headings (as shown here) are introduced by
-italicized text and separated from the main paragraph by a bit of space.
-
-\section{Environments}
-
-The following characteristics define the various environments:
-
-
-\begin{table}[h]
-  \begin{center}
-    \footnotesize%
-    \begin{tabular}{lcl}
-      \toprule
-      Environment & Font size & Notes \\
-      \midrule
-      Body text & \measure{10}{14}{26} & \\
-      Block quote & \measure{9}{12}{24} & Block indent (left and right) by \unit[1]{pc} \\
-      Sidenotes & \measure{8}{10}{12} & Sidenote number is set inline, followed by word space \\
-      Captions & \measure{8}{10}{12} &  \\
-      \bottomrule
-    \end{tabular}
-  \end{center}
-  \caption{Environment styles used in \BE.}
-  \label{tab:environment-styles}
-\end{table}
 
 
 \chapter[On the Use of the tufte-book Document Class]{On the Use of the \texttt{tufte-book} Document Class}
