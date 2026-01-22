@@ -34,3 +34,30 @@ We need to show that it is legitimate to use the Plücker map to give a coordina
 
 We demand two things from the Plücker map, or alternatively, from $\mathbb{P}(\bigwedge^k K^n)$. First of all, this application should allow us to do elementary calculation using elements in $\mathbb{P}(\bigwedge^k K^n)$, which can be explicitly represented. Secondly, we want to make sure that the embedding of $G(k,n)$ into $\mathbb{P}(\bigwedge^k K^n)$ makes sense in algebraic geometry. For these reasons, we define the Plücker coordinates.
 
+To begin with, we notice that for a $K$-vector space of dimension $n$ and $0<k<n$, we have a natural isomorphism
+
+\[
+	\bigwedge^k V \cong \left(\bigwedge^{n-k}V\right)^\ast \cong \bigwedge^{n-k}V^\ast.
+\]
+
+The first identification comes from the map induced by the wedge product:
+
+\begin{align*}
+	\bigwedge^k V \times \bigwedge^{n-k}V &\to \bigwedge^n V \cong K, \\
+	(x,y) &\mapsto x \wedge y.
+\end{align*}
+
+On the other hand we have $\left(\bigwedge^{n-k}V\right)^\ast \cong \bigwedge^{n-k}V^\ast$ due to the following pairing:
+
+\begin{align*}
+	\bigwedge^{n-k}V^\ast \times \bigwedge^{n-k}V &\to \bigwedge^n V \cong K, \\
+	(f_1 \wedge \cdots \wedge f_{n-k},g_1\wedge \cdots \wedge g_{n-k}) &\mapsto \det(f_i(g_j)).
+\end{align*}
+
+As a matter of notation, we shall denote $\{e_1,\dots,e_n\}$ the canonical basis of $K^n$, and $\{e_1^\ast,\cdots,e_n^\ast\}$ the dual basis such that $e_i^\ast(e_j) = \delta_{ij}$, the Kronecker delta at value $(i,j)$. Let $I_{k,n}=\{\underline{i}=(i_1,\dots,i_k):1 \le i_1 <\dots<i_k \le n\}$ be the set of ordered $(k,n)$-tuples, we can then assign a basis $\{e_{\underline{i}}=e_{i_1} \wedge\cdots\wedge e_{i_k}:\underline{i}\in I_{k,n}\}$ to $\bigwedge^k V$. On the other hand, $\{p_{\underline{i}}=e_{i_1}^\ast \wedge\cdots\wedge e_{i_k}^\ast:\underline{i}\in I_{k,n}\}$ is the dual basis of $\{e_{\underline{i}}\}$ as we have
+
+\[
+	p_{\underline{i}}(e_{\underline{j}}) = \det(e_{i_\ell}^\ast(e_{j_m}))_{1 \le \ell,m \le k}=\delta_{\underline{i}\underline{j}}.
+\]
+
+The dual vectors $\{p_{\underline{i}}\}$ defines a set of projective coordinates which are the \textit{Plücker coordinates}.
